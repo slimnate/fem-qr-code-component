@@ -21,7 +21,19 @@ body {
 }
 
 main {
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.qr-card {
+  background-color: hsl(0, 0%, 100%);
+  max-width: 320px;
+  min-height: 500px;
+  padding: 1rem;
+}
+
+.qr-card img {
+  max-width: 100%;
 }
