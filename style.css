@@ -4,6 +4,12 @@
   font-variation-settings: 'wght' 400;
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 html {
   font-family: 'Outfit';
 }
