@@ -32,8 +32,10 @@ main {
   max-width: 320px;
   min-height: 500px;
   padding: 1rem;
+  border-radius: 1rem;
 }
 
 .qr-card img {
   max-width: 100%;
+  border-radius: 0.5rem;
 }
