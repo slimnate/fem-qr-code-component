@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Outfit';
+  src: url('static/fonts/Outfit.ttf') format('truetype');
+  font-variation-settings: 'wght' 400;
+}
+
+html {
+  font-family: 'Outfit';
+}
