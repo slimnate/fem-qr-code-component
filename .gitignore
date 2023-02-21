@@ -15,5 +15,6 @@
 .DS_Store
 .prettierignore
 
-#node_modules
+#vite stuff
 node_modules
+dist
